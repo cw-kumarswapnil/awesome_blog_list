@@ -26,3 +26,6 @@
 
 ## Uber
 * [Blog Home](https://eng.uber.com/)
+
+## Other Random Stuff
+* (http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
