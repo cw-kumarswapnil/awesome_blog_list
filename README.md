@@ -29,3 +29,4 @@
 
 ## Other Random Stuff
 * (http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
+* (https://www.sitepoint.com/seo-friendly-infinite-scroll/)
