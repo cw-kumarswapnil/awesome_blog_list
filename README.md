@@ -31,3 +31,5 @@
 * (http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
 * (https://www.sitepoint.com/seo-friendly-infinite-scroll/)
 * (https://www.impression.co.uk/blog/7059/seo-friendly-infinite-scroll/)
+* (https://www.dynatrace.com/news/blog/behind-net-4-5-async-scene-performance-impact-asynchronous-programming-c/)
+* (https://www.i-programmer.info/professional-programmer/i-programmer/7154-c-guru-an-interview-with-eric-lippert.html?start=1)
