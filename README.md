@@ -8,6 +8,8 @@
 * (https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience)
 * (https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
 * (https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf)
+* (https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
+* (https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
 
 ## Microsoft
 * [Blog Home](https://engineering.microsoft.com/)
