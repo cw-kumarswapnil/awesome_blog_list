@@ -38,3 +38,4 @@
 * (https://www.i-programmer.info/professional-programmer/i-programmer/7154-c-guru-an-interview-with-eric-lippert.html?start=1)
 * (https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f)
 * (https://martinfowler.com/articles/mocksArentStubs.html)
+* [Javscript Debounce Function](https://davidwalsh.name/javascript-debounce-function)
